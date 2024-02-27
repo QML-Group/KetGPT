@@ -1,6 +1,6 @@
-<img src="logo.png" alt="drawing" width="100"/>
+<img src="logo.png" alt="drawing" width="50"/> #KetGPT
 
-# Dataset Augmentation of Quantum Circuits using Transformers
+## Dataset Augmentation of Quantum Circuits using Transformers
 
 This repository hosts the accompanying software for the following research article and master thesis. 
 
